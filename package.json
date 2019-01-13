@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/jamesadarich/vanilla-components/issues"
   },
-  "homepage": "https://github.com/jamesadarich/vanilla-components#readme"
+  "homepage": "https://github.com/jamesadarich/vanilla-components#readme",
+  "devDependencies": {
+    "alsatian": "^2.3.0",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "@stencil/core": "^0.16.2"
+  },
+  "bundleDependencies": [
+    "@stencil/core"
+  ]
 }
