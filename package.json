@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-components",
+  "version": "0.1.0",
+  "description": "a collection of vanilla web components",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "alsatian \"./src/**/*.spec.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesadarich/vanilla-components.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesadarich/vanilla-components/issues"
+  },
+  "homepage": "https://github.com/jamesadarich/vanilla-components#readme"
+}
