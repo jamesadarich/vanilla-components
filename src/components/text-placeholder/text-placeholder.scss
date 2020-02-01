@@ -1,0 +1,31 @@
+:host {
+    padding: 1em;
+}
+
+.placeholder-line {
+    margin: 0.75em;
+    border-radius: 0.1em;
+    background: #ccc;
+    height: 1em;
+    width: 84%;
+}
+
+.placeholder-line:nth-of-type(2n) {
+    width: 87%
+}
+
+.placeholder-line:nth-of-type(3n) {
+    width: 76%;
+}
+
+.placeholder-line:nth-of-type(4n) {
+    width: 86%;
+}
+
+.placeholder-line:last-of-type {
+    width: 62.5%;
+}
+
+.placeholder-line:first-of-type {
+    width: 84%;
+}

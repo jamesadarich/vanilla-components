@@ -1,5 +1,14 @@
-#npm
+# npm
 node_modules
 
-#dist
+# dist
 dist
+demo-dist
+
+# stencil
+.stencil
+www
+src/components.d.ts
+
+# vscode
+.vscode
